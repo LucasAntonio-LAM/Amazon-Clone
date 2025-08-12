@@ -17,3 +17,11 @@
     --spacing-S75: 75px;
     --spacing-S210: 210px;
 }
+
+.item-nav-mid {
+    @apply mr-4 border border-transparent hover:border-white rounded-sm px-2 py-1;
+}
+
+.address-container {
+    @apply flex items-center border border-transparent hover:border-white rounded-sm px-2 py-2 md:py-0;
+}
