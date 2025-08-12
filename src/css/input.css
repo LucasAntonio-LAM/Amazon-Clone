@@ -3,11 +3,11 @@
 @theme {
     --font-display: "Arial", sans-serif;
     
-    --color-dark-blue-500: #485769;
-    --color-dark-blue-600: #37475A;
-    --color-dark-blue-700: #232F3E;
-    --color-dark-blue-900: #191E26;
-    --color-dark-blue-950: #131A22;
+    --color-darkblue-500: #485769;
+    --color-darkblue-600: #37475A;
+    --color-darkblue-700: #232F3E;
+    --color-darkblue-900: #191E26;
+    --color-darkblue-950: #131A22;
     --color-gold-100: #FEBD69;
     --color-gold-200: #FAA63A;
     --color-orange-650: #E47911;
