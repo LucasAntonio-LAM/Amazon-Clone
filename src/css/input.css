@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Arial", sans-serif;
+    
+    --color-dark-blue-500: #485769;
+    --color-dark-blue-600: #37475A;
+    --color-dark-blue-700: #232F3E;
+    --color-dark-blue-900: #191E26;
+    --color-dark-blue-950: #131A22;
+    --color-gold-100: #FEBD69;
+    --color-gold-200: #FAA63A;
+    --color-orange-650: #E47911;
+    --color-yellow-350: #F0C14B;
+
+    --spacing-S7: 1.75rem;
+    --spacing-S75: 75px;
+    --spacing-S210: 210px;
+}
