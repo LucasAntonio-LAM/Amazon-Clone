@@ -25,3 +25,7 @@
 .address-container {
     @apply flex items-center border border-transparent hover:border-white rounded-sm px-2 py-2 md:py-0;
 }
+
+.item-nav-inf {
+    @apply hover:text-orange-650 border-b-2 border-transparent hover:border-orange-650 py-1 px-3;
+}
